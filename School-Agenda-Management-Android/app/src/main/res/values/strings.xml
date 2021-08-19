@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaAluno</string>
+    <string name="title_editar">Editar</string>
+    <string name="title_adicionar">Adicionar</string>
+    <string name="title_pesquisar">Pesquisar</string>
+    <string name="title_lista">Lista</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,16 @@
+/* oi amigxs tudo bem, eu to ótimo aqui no sertão, desculpa por não
+poder fazer o projeto junto com vcs bjsbjs<3*/
+
+create table Aluno(
+ra varchar(5) primary key,
+nome varchar(50) not null,
+email varchar(50) not null)
+
+insert into aluno values ('19040', 'Vinícius Martins Cotrim', 'cc19040@g.unicamp.br')
+insert into aluno values ('19180', 'Maria Luiza Sperancin Mancebo', 'cc19180@g.unicamp.br')
+insert into aluno values ('19173', 'Giovanna Pavani Martelli', 'cc19173@g.unicamp.br')
+insert into aluno values ('19186', 'Illy Bordini da Silva', 'cc19186@g.unicamp.br')
+insert into aluno values ('19197', 'Rodrigo Smith', 'cc19197@g.unicamp.br')
+insert into aluno values ('19168', 'Enzo Furegatti Spinella', 'cc19168@g.unicamp.br')
+
+select * from aluno
